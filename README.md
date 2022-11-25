@@ -1,2 +1,2 @@
 # my_repository
-Test repo.
+This is a pull test.
